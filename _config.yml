@@ -1,0 +1,27 @@
+title: Minsuk Sung
+url: "https://github.com/mssung94"
+baseurl: ""
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: UA-138665784-2 #
+
+
+footer: no
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: ""
+ - name: "CV"
+   link: "" #"Curriculum_Vitae_Chanjunpark.pdf"
+
+remote_theme: ankitsultana/researcher@gem
+
+theme: jekyll-theme-cayman
