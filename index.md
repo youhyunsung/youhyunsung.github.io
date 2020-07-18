@@ -68,10 +68,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - (Mar. 2015 Entered) **University at the Top of School Class**
 - (Aug. 2015 ~ Sep.2015 Received) **Scholarship of Goethe Institute for C1 Summer Course**
 - (Sep. 2016 Received) **Scholarship for Excellent Academic Achievement (4.45/4.5)**
-- (Jun. 2018 Received) **Scholarship for “Core Project" from Korean Government **
-- (Jul. 2018 Received) **Scholarship for “Core Project" from Korean Government **
+- (Jun. 2018 Received) **Scholarship for “Core Project" from Korean Government**
+- (Jul. 2018 Received) **Scholarship for “Core Project" from Korean Government**
 - (Jun. 2018 Received) **Scholarship for Excellent Academic Achievement (4.26/4.5)**
-- (Oct. 2018 ~ Feb. 2019 Received) **Scholarship from BWS-Stidendium **
+- (Oct. 2018 ~ Feb. 2019 Received) **Scholarship from BWS-Stidendium**
 - (Sep. 2020 Received) **Scholarship for Excellent Academic Achievement (4.4/4.5)**
 
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
