@@ -3,7 +3,7 @@ url: "https://github.com/youhyunsung"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.png"
 
 tracking_id: UA-138665784-2 #
 
