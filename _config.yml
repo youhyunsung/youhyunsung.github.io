@@ -3,12 +3,12 @@ url: "https://github.com/youhyunsung"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+ins_logo: "./hanyang_logo.png"
 
 tracking_id: UA-138665784-2 #
 
 
-footer: no
+footer: yes
 footer_url: "https://github.com/youhyunsung"
 footer_text: "You-Hyun Sung"
 
