@@ -62,8 +62,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 ## Awards and Honors
+
 ### In Ewha Foreign Language High School 
 - (Aug. 2013 ~ Sep. 2013 Received) **PAD Scholarship from German Government**
+
 ### In Hanyang University
 - (Mar. 2015 Entered) **University at the Top of School Class**
 - (Aug. 2015 ~ Sep.2015 Received) **Scholarship of Goethe Institute for C1 Summer Course**
