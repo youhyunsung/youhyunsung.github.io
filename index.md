@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile_youhyun.jpg">
+<img class="profile-picture" src="profile_youhyun.jpeg">
 Hi! I'm a undergraduate student at Hanyang University. See CV for more information.
 
  <!-- This is a jekyll based resume template. You can find the full source code on [GitHub] --> 
