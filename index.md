@@ -51,7 +51,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 ## Certificate
-- (Apr. 2014 Achieved) **Goethe Zertifikat C1 **
+- (Apr. 2014 Achieved) **Goethe Zertifikat C1**
 - (Jul. 2020 Achieved) **Coursera Certificate Wharton School ‘Introduction to Marketing’**
 - (Jul. 2020 Achieved) **OPic English IH**
 
