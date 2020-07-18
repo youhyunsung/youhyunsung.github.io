@@ -1,5 +1,5 @@
 title: Minsuk Sung
-url: "https://github.com/mssung94"
+url: "https://github.com/youhyunsung"
 baseurl: ""
 
 markdown: kramdown
@@ -9,8 +9,8 @@ tracking_id: UA-138665784-2 #
 
 
 footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/youhyunsung"
+footer_text: "You-Hyun Sung"
 
 sass:
     style: compressed
