@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 <img class="profile-picture" src="profile_youhyun.jpeg">
-Hi! I am an undergraduate student in the Department of German Language and Literature at Hanyang University in Korea. I am currently interested in Marketing, Philosophy and Design as well. My further goal is to broaden the academic knowledge and to gratify my curiosity toward the unknown world.
+Hi! I am currently an undergraduate student in the Department of German Language and Literature at Hanyang University in Korea. I am interested in International Relationships, Marketing, Philosophy and Design as well. My goal in life is to broaden the academic knowledge and to gratify my curiosity toward the unknown world.
 
 Please contact me if you want to know more about me!  See CV for more information.
 
@@ -19,9 +19,9 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 ## Education
-- (Mar. 2015 ~ currently) **Hanyang University** 
-- (Oct. 2018 ~ Feb. 2019) **Exchange Semester in Stuttgart at University of Stuttgart** 
-- (Mar 2012 ~ Feb. 2015) **Graduated from Ewha girls’ Foreign Language High School Specialized in German Language** 
+- **Hanyang University** / Seoul, Korea / Mar. 2015 ~ expected to graduate in Feb. 2021
+- **University of Stuttgart** / Stuttgart, Germany / Oct. 2018 ~ Feb. 2019
+- **Ewha girls’ Foreign Language High School Specialized in German Language** / Seoul, Korea / Mar 2012 ~ Feb. 2015
 
 ---
 ## Language
@@ -39,21 +39,46 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 ## Work Experience
-- (Mar. 2019 ~ Feb. 2020) **Cheil Germany GmbH** 
-- (Sep. 2019 ~ Sep. 2019) **Korean Tourism Organization**
-- (Jan. 2019 ~ Jan. 2019) **Korean Tourism Organization**
-- (Jan. 2018 ~ Jun. 2018) **IACL-AIDC 2018 World Congress Conference**
-- (Sep. 2017 ~ Sep. 2017) **Samsung 2017 SDC San Francisco**
-- (Mar. 2017 ~ May. 2017) **Leschaco Korea Ltd.**
-- (Sep. 2016 ~ Sep. 2016) **Samsung 2016 IFA Berlin**
-- (Sep. 2015 ~ Sep. 2015) **Samsung 2016 IFA Berlin**
-- (Dec. 2014 ~ Jan. 2015) **Samsung 2015 CES Las Vegas**
-
+- **Cheil Germany GmbH** / Frankfurt, Germany (Mar. 2019 ~ Feb. 2020)
+    - Intern Project Manager
+    - Ideation Sketch
+    - Production & Operation
+- **Korean Tourism Organization** / Mannheim, Germany (Sep. 2019 ~ Sep. 2019)
+    - Korean Culture Experience Booth Operation
+- **Korean Tourism Organization** / Stuttgart, Germany (Jan. 2019 ~ Jan. 2019) 
+    - Korean Culture Experience Booth Operation 
+- **IACL-AIDC 2018 World Congress Conference** / Seoul, Korea (Jan. 2018 ~ Jun. 2018) 
+    - Event Coordinator
+    - Participants Management
+    - Hospitality Management
+- **Samsung 2017 SDC San Francisco** / San Francisco, United States (Sep. 2017 ~ Sep. 2017)
+    - Production Coorperator
+    - English Interpretation
+- **Samsung 2016 IFA Berlin** / Berlin, Germany (Aug. 2017 ~ Sep. 2017)
+    - Production Coorperator
+    - English, German Interpretation
+- **Leschaco Korea Ltd.**
+    - English, Korean Translation
+    - Secretary
+- **Samsung 2016 IFA Berlin** / Berlin, Germany (Sep. 2015 ~ Sep. 2015) 
+    - Production Coorperator
+    - English, German Interpretation
+- **Samsung 2015 CES Las Vegas**
+    - Production Coorperator
+    - English Interpretation
 ---
 ## Certificate
-- (Apr. 2014 Achieved) **Goethe Zertifikat C1**
-- (Jul. 2020 Achieved) **Coursera Certificate Wharton School ‘Introduction to Marketing’**
-- (Jul. 2020 Achieved) **OPic English IH**
+- **Introduction to Marketing** / Wharton School & Coursera / Jul. 2020
+- **Personal Branding** / University of Virginia & Coursera / Jul. 2020 
+- **Positive Psychology** / University of Pennsylvania & Coursera / Jul. 2020 
+- **OPIc English IH** / Jul. 2020
+- **Goethe Institute Berlin C1** / Aug. 2015
+- **Goethe Institute C1** / Apr. 2014
+
+---
+## Volunteer Experience
+- Hanyang University / Korean Supporters / Mar. 2018 ~ Jun. 2018
+    - Teach Korean for International Students
 
 ---
 ## Skills and Techniques
@@ -64,18 +89,17 @@ Please contact me if you want to know more about me!  See CV for more informatio
 ## Awards and Honors
 
 ### In Ewha Foreign Language High School 
-- (Aug. 2013 ~ Sep. 2013 Received) **PAD Scholarship from German Government**
+- **PAD Scholarship from German Government** / Aug. 2013 ~ Sep. 2013
 
 ### In Hanyang University
-- (Mar. 2015 Entered) **University at the Top of School Class**
-- (Aug. 2015 ~ Sep.2015 Received) **Scholarship of Goethe Institute for C1 Summer Course**
-- (Sep. 2016 Received) **Scholarship for Excellent Academic Achievement (4.45/4.5)**
-- (Jun. 2018 Received) **Scholarship for “Core Project" from Korean Government**
-- (Jul. 2018 Received) **Scholarship for “Core Project" from Korean Government**
-- (Jun. 2018 Received) **Scholarship for Excellent Academic Achievement (4.26/4.5)**
-- (Oct. 2018 ~ Feb. 2019 Received) **Scholarship from BWS-Stidendium**
-- (Sep. 2020 Received) **Scholarship for Excellent Academic Achievement (4.4/4.5)**
-
+- **Entered University at the Top of School Class** / Mar. 2015
+- **Scholarship of Goethe Institute for C1 Summer Course** / Aug. 2015 ~ Sep.2015
+- **Scholarship for Excellent Academic Achievement (4.45/4.5)** / Sep. 2016
+- **Scholarship for “Core Project" from Korean Government** / Jun. 2018
+- **Scholarship for “Core Project Specialist" from Korean Government** / Jun. 2018
+- **Scholarship for Excellent Academic Achievement (4.26/4.5)** / Jun. 2018
+- **Scholarship from BWS-Stidendium**/ Oct. 2018 ~ Feb. 2019
+- **Scholarship for Excellent Academic Achievement (4.4/4.5)** / Sep. 2020
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
  <!-- Here is a horizontal rule --- -->
  <!-- Here is a blockquote> To a great mind, nothing is little -->
