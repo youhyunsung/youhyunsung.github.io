@@ -66,6 +66,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - **Samsung 2015 CES Las Vegas**
     - Production Coorperator
     - English Interpretation
+    
 ---
 ## Certificate
 - **Introduction to Marketing** / Wharton School & Coursera / Jul. 2020
@@ -100,6 +101,7 @@ Please contact me if you want to know more about me!  See CV for more informatio
 - **Scholarship for Excellent Academic Achievement (4.26/4.5)** / Jun. 2018
 - **Scholarship from BWS-Stidendium**/ Oct. 2018 ~ Feb. 2019
 - **Scholarship for Excellent Academic Achievement (4.4/4.5)** / Sep. 2020
+
  <!-- This is a [link](http://google.com). Something *italics* and something **bold**.-->
  <!-- Here is a horizontal rule --- -->
  <!-- Here is a blockquote> To a great mind, nothing is little -->
