@@ -19,6 +19,8 @@ sass:
 nav:
  - name: "About"
    link: ""
+ - name: "Contact"
+   link: ""
  - name: "CV"
    link: "https://drive.google.com/file/d/1SPQxUf3E292aOiAJeoGpxWQL78539vQ9/view?usp=sharing" #"Curriculum_Vitae_Chanjunpark.pdf"
 
