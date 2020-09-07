@@ -78,8 +78,10 @@ Please contact me if you want to know more about me!  See CV for more informatio
 
 ---
 ## Volunteer Experience
+- Youth and Future / The 4th Youthday Festival Supporters Operation / Jul. 2020 ~ Sep. 2020
+    - Festival Supporters Operation & Ideation
 - Hanyang University / Korean Supporters / Mar. 2018 ~ Jun. 2018
-    - Teach Korean for International Students
+    - Korean Teaching Asistant for International Students
 
 ---
 ## Skills and Techniques
